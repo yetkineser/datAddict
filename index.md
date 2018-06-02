@@ -8,10 +8,11 @@
 
 https://datAddict.github.io/gpj-datamunglers-2/files/LastVersion/20180105_BigMart.html
 
-- [here](https://datAddict.github.io/yetkineser/A.Yetkin Eser ML Project.html)
+- [here](https://yetkineser.github.io/datAddict/A.Yetkin Eser ML Project.html)
 
+https://yetkineser.github.io/datAddict/
 
-https://github.com/yetkineser/datAddict.github.io
+https://github.com/yetkineser/datAddict
 https://github.com/MEF-BDA503/gpj-datamunglers-2
 - [here](datAddict.github.io/A.Yetkin Eser ML Project.html)
 
