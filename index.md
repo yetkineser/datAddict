@@ -19,4 +19,9 @@
 
 - My final project is churn analysis with R. You can find it [here](https://yetkineser.github.io/datAddict/20180523_Marketing_Final.html)
 
+## Big Data Analytics with Serhat Çevikel
+
+- My final project is descriptive analysis with R and Postgre-SQL. You can find it [here](https://yetkineser.github.io/datAddict/Term Project of BDA 507.htm)
+
+- My final exam is about SQL, Mapreduce and JSON data format. You can find it [here](https://yetkineser.github.io/datAddict/Ahmet Yetkin Eser - BDA 505 Final.htm)
 
