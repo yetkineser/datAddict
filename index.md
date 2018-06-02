@@ -8,6 +8,14 @@
 
 - [here](datAddict.github.io/A.Yetkin Eser ML Project.html)
 
+- [here](https://github.com/yetkineser/datAddict.github.io/blob/master/20180523_Marketing_Final.html)
+
+- [here](https://github.com/yetkineser/datAddict.github.io/20180523_Marketing_Final.html)
+
+- [here](https://github.com/yetkineser/datAddict.github.io/master/20180523_Marketing_Final.html)
+
+- [here](https://github.com/yetkineser/datAddict.github.io/blob/20180523_Marketing_Final.html)
+
 You can use the [editor on GitHub](https://github.com/yetkineser/datAddict.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
