@@ -45,4 +45,3 @@ and its presendation with R-Markdown is [here](https://yetkineser.github.io/datA
 
 ## Applied Statistics with Serkan Ceran
 
-
