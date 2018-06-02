@@ -6,6 +6,11 @@
 
 - My final projecs is Natural Language Processing for Kaggle Toxic Dataset. You cand find it [here](https://github.com/yetkineser/datAddict.github.io.git/A.Yetkin Eser ML Project.html)
 
+https://datAddict.github.io/gpj-datamunglers-2/files/LastVersion/20180105_BigMart.html
+
+- [here](https://datAddict.github.io/yetkineser/A.Yetkin Eser ML Project.html)
+
+
 - [here](datAddict.github.io/A.Yetkin Eser ML Project.html)
 
 - [here](https://github.com/yetkineser/datAddict.github.io/blob/master/20180523_Marketing_Final.html)
