@@ -11,6 +11,8 @@ https://datAddict.github.io/gpj-datamunglers-2/files/LastVersion/20180105_BigMar
 - [here](https://datAddict.github.io/yetkineser/A.Yetkin Eser ML Project.html)
 
 
+https://github.com/yetkineser/datAddict.github.io
+https://github.com/MEF-BDA503/gpj-datamunglers-2
 - [here](datAddict.github.io/A.Yetkin Eser ML Project.html)
 
 - [here](https://github.com/yetkineser/datAddict.github.io/blob/master/20180523_Marketing_Final.html)
