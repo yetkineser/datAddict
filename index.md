@@ -4,7 +4,7 @@
 
 ## Machine Learning with Tuna Çakar
 
-- My final projecs is Natural Language Processing for Kaggle Toxic Dataset. You cand find it [here](https://github.com/yetkineser/datAddict.github.io/edit/master/20180523_Marketing_Final)
+- My final projecs is Natural Language Processing for Kaggle Toxic Dataset. You cand find it [here](https://github.com/yetkineser/datAddict.github.io/20180523_Marketing_Final.html)
 
 You can use the [editor on GitHub](https://github.com/yetkineser/datAddict.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
