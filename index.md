@@ -25,3 +25,13 @@
 
 - My final exam is about SQL, Mapreduce and JSON data format. You can find it [here](https://yetkineser.github.io/datAddict/Ahmet Yetkin Eser - BDA 505 Final.htm)
 
+## Python with Tuna Çakar
+
+## Exploratary Data Analysis with Berk Orbay
+
+- My final project is EDA with R You cand find it [here](https://yetkineser.github.io/datAddict/20171218_BigMartEce.htm)
+
+and its presendation with R-Markdown is [here](https://yetkineser.github.io/datAddict/20171219_BigMart_Pres_Ece.html)
+
+- My final exam is [here](https://yetkineser.github.io/datAddict/Ahmet_Yetkin_Eser_Final.htm)
+
