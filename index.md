@@ -1,6 +1,6 @@
 ### DatAddict (A.Yetkin Eser)
 
-- This repository include my data analysis projects on Mef University Big Data Analytics Master Program.
+- This repository include my data analysis projects on Mef University Big Data Analytics Master Degree.
 
 ## Machine Learning with Tuna Çakar
 
