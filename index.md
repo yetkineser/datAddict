@@ -21,9 +21,9 @@
 
 ## Big Data Analytics with Serhat Çevikel
 
-- My final project involved descriptive analysis with R and Postgre-SQL. You can find it [here](https://yetkineser.github.io/datAddict/Term Project of BDA 507.htm)
+- My final project involved descriptive analysis with R and Postgre-SQL in [here](https://yetkineser.github.io/datAddict/Term Project of BDA 507.htm)
 
-- My final exam covered SQL, MapReduce, and JSON data format. You can find it [here](https://yetkineser.github.io/datAddict/Ahmet Yetkin Eser - BDA 505 Final.htm)
+- My final exam covered SQL, MapReduce, and JSON data format in [here](https://yetkineser.github.io/datAddict/Ahmet Yetkin Eser - BDA 505 Final.htm)
 
 ## Python with Tuna Çakar
 
